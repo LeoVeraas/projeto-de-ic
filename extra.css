@@ -1,0 +1,83 @@
+
+/* Estilos padrão para o modo claro */
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #333333;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para o modo escuro */
+body.modo-escuro {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+}
+
+header.modo-escuro {
+    background-color: #444444;
+    text-align: center;
+}
+
+header h1.modo-escuro {
+    color: #ffffff;
+    text-align: center;
+}
+
+button.modo-escuro {
+    background-color: #444444;
+    color: #ffffff;
+    text-align: center;
+}
+
+button.modo-escuro:hover {
+    background-color: #555555;
+    text-align: center;
+}
+
+main.modo-escuro {
+    color: #d1d1d1;
+    text-align: center;
+}
+
+footer.modo-escuro {
+    background-color: #444444;
+    color: #d1d1d1;
+    text-align: center;
+}
