@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #f1f1f1;
+    background-color: #555555;
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ header {
 h1 {
     margin: 0;
     font-size: 2rem;
-    color: #333333;
+    color: black;
     text-align: center;
 }
 
