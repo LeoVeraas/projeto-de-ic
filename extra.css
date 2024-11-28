@@ -1,5 +1,4 @@
 
-/* Estilos padrão para o modo claro */
 body {
     background-color: #f1f1f1;
     color: #333333;
@@ -43,7 +42,6 @@ main {
     text-align: center;
 }
 
-/* Estilos para o modo escuro */
 body.modo-escuro {
     background-color: #333333;
     color: #ffffff;
